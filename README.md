@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Soo Ah</h1>
 
-<!--
-**SOOAH-HAN/sooah-han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Learning Python & Security, one step at a time 🔐</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <i>From Law to Security — curious enough to learn, patient enough to keep going.</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+---
+
+### 🌱 What I'm learning
+
+I'm currently exploring the world of **cybersecurity** and building my foundation step by step.
+
+- 🐍 Python
+- 🌐 Networking
+- 🔐 Security Monitoring
+- 🛠️ Git & GitHub
+
+I'm still learning and figuring out where my strengths fit best in security.
+
+<br>
+
+### 🔭 What I'm working on
+
+**Security Agent Toolkit**
+
+A small project where I'm practicing what I learn and getting used to working with code, GitHub, and security-related tools.
+
+<br>
+
+### 📚 My learning journey
+
+```text
+Law
+ ↓
+Curiosity about Infrastructure
+ ↓
+Learning Python & Networking
+ ↓
+Exploring Cybersecurity
+ ↓
+Finding my place in Security
+``

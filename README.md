@@ -5,22 +5,21 @@
 </p>
 
 <p align="center">
-  From Law to Security · Learning by doing 🌱
+  Curious about technology, learning by doing 🌱
 </p>
 
 ---
 
 ### 🌱 What I'm learning
 
-I'm currently building my foundation in cybersecurity, one step at a time.
+I'm currently building my foundation in cybersecurity and learning step by step.
 
 - 🐍 Python
 - 🌐 Networking
 - 🔐 Security Monitoring
 - 🛠️ Git & GitHub
 
-I'm still exploring which part of security fits me best,
-so for now, I'm focusing on learning the basics and building things myself.
+I'm still exploring which area of security fits me best.
 
 ---
 
@@ -28,27 +27,23 @@ so for now, I'm focusing on learning the basics and building things myself.
 
 **Security Agent Toolkit**
 
-A project where I practice what I learn and get familiar with
-Python, GitHub, and security-related tools.
+A project where I'm practicing what I learn and getting familiar with Python, GitHub, and security-related tools.
 
 ---
 
 ### 📚 My learning journey
 
 ```text
-Law
-  ↓
 Curiosity about Infrastructure
   ↓
 Learning Python & Networking
   ↓
 Exploring Cybersecurity
   ↓
-Finding My Place in Security
+Building Security Projects
+  ↓
+Finding My Path in Security
 ```
-
-I started from a non-computer background,
-so I'm not trying to rush the process.
 
 **One concept. One project. One step at a time.**
 
@@ -65,8 +60,6 @@ so I'm not trying to rush the process.
 ---
 
 ### 📫 Contact
-
-If you'd like to connect:
 
 📧 **[soo_ah0228@naver.com](mailto:soo_ah0228@naver.com)**
 

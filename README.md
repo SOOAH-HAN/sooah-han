@@ -45,4 +45,34 @@ Learning Python & Networking
 Exploring Cybersecurity
  ↓
 Finding my place in Security
-``
+```
+
+I started from a non-computer background, so I don't want to rush the process.
+
+**One concept, one project, one step at a time.**
+
+<br>
+
+### 🛠️ Languages & Tools
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
+
+<br>
+
+### 📫 Contact
+
+If you'd like to connect:
+
+**Email:** soo_ah0228@naver.com
+
+<br>
+
+---
+
+<p align="center">
+  <i>Still learning. Still curious. Still moving forward. 🌱</i>
+</p>
